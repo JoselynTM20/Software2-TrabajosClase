@@ -1,6 +1,13 @@
 const { MongoClient, ObjectId } = require('mongodb');
 const express = require('express');
 const awsServerlessExpress = require('aws-serverless-express');
+
+
+/* Comandos a correr:
+npm init -y
+npm install mongodb express aws-serverless-express */
+
+
 /* 
 url de consultas
 post: https://se38ww11q8.execute-api.us-east-2.amazonaws.com/prod/users
