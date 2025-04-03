@@ -1,0 +1,17 @@
+{
+  "name": "trabajoclaselambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0"
+  }
+}
